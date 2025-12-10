@@ -10,15 +10,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<p align="center">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rzashakeri/beautify-github-profile?style=flat-square">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/rzashakeri/beautify-github-profile?style=flat-square">
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rzashakeri/beautify-github-profile?style=flat-square">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/rzashakeri/beautify-github-profile?color=blue&style=flat-square">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rzashakeri/beautify-github-profile?color=blue&style=flat-square">
-  <img alt="GitHub" src="https://img.shields.io/github/license/rzashakeri/beautify-github-profile?color=blue&style=flat-square">
-  <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/rzashakeri/beautify-github-profile?color=blue&style=flat-square">
-  <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/rzashakeri/beautify-github-profile?color=blue&style=flat-square">
+<p align="center">  
+  <a href="https://GitHub.com/Naereen/ama">  
+    <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything">  
+  </a>  
+  <a href="https://pypi.python.org/pypi/ansicolortags/">  
+    <img src="https://img.shields.io/pypi/dd/ansicolortags.svg" alt="PyPI download day">  
+  </a>  
+  <a href="https://GitHub.com/Naereen/StrapDown.js/network/">  
+    <img src="https://badgen.net/github/forks/Naereen/Strapdown.js/" alt="GitHub forks">  
+  </a>  
+  <a href="https://GitHub.com/Naereen/StrapDown.js/stargazers/">  
+    <img src="https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000" alt="GitHub stars">  
+  </a>  
 </p>
 
 
