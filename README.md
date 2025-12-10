@@ -24,7 +24,6 @@
         <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
       </td>
   </tr>
-
   <tr>
         <td align="center">
         <details open=""><summary>Permissions, limitations and conditions</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.licenses.svg" style="max-width: 100%;" width="400"></a></details>
@@ -37,7 +36,6 @@
         <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
       </td>
   </tr>
-
   <tr>
         <td align="center">
         <details open=""><summary>By contribution types</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.contributors.categories.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.contributors.categories.svg" style="max-width: 100%;" width="400"></a></details>
@@ -66,8 +64,6 @@
         <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
       </td>
   </tr>
-
-
   <tr>
         <td align="center">
         <details open=""><summary>Classic charts</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.stargazers.svg" style="max-width: 100%;" width="400"></a></details>
@@ -76,20 +72,6 @@
       </td>
         <td align="center">
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.projects.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.projects.svg" style="max-width: 100%;" width="400"></a>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-  </tr>
-  <tr>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/code/README.md"><g-emoji class="g-emoji" alias="sagittarius" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2650.png">♐</g-emoji> Code snippet of the day</a></th>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/activity/README.md"><g-emoji class="g-emoji" alias="newspaper" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f0.png">📰</g-emoji> Recent activity</a></th>
-  </tr>
-  <tr>
-        <td align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.code.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.code.svg" style="max-width: 100%;" width="400"></a>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-        <td align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.activity.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.activity.svg" style="max-width: 100%;" width="400"></a>
         <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
       </td>
   </tr>
@@ -142,15 +124,6 @@
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.repositories.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.repositories.svg" style="max-width: 100%;" width="400"></a>
         <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
       </td>
-        <td align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.gists.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.gists.svg" style="max-width: 100%;" width="400"></a>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-  </tr>
-  <tr>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/introduction/README.md"><g-emoji class="g-emoji" alias="raising_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b.png">🙋</g-emoji> Introduction</a></th>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md"><g-emoji class="g-emoji" alias="two_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f495.png">💕</g-emoji> GitHub Sponsors</a></th>
-  </tr>
   <tr>
         <td align="center">
         <details open=""><summary>For a user or an organization</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.introduction.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.introduction.svg" style="max-width: 100%;" width="400"></a></details>
@@ -175,7 +148,6 @@
         <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
       </td>
   </tr>
-
   <tr>
         <td align="center">
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.skyline.svg" style="max-width: 100%;" width="400"></a>
@@ -188,62 +160,11 @@
         <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
       </td>
   </tr>
-
-  <tr>
-        <td align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stackoverflow.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.stackoverflow.svg" style="max-width: 100%;" width="400"></a>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-        <td align="center">
-        <details open=""><summary>For anime watchers</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.anilist.svg" style="max-width: 100%;" width="400"></a></details>
-        <details><summary>For manga readers</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.manga.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.anilist.manga.svg" style="max-width: 100%;" width="400"></a></details>
-        <details open=""><summary>For waifus simp</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.characters.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.anilist.characters.svg" style="max-width: 100%;" width="400"></a></details>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-  </tr>
-
-  <tr>
-        <td align="center">
-        <details open=""><summary>Latest tweets with attachments</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.tweets.attachments.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.tweets.attachments.svg" style="max-width: 100%;" width="400"></a></details>
-        <details><summary>Latest tweets</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.tweets.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.tweets.svg" style="max-width: 100%;" width="400"></a></details>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-        <td align="center">
-        <details open=""><summary>Latest posts width description and cover image</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.posts.full.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.posts.full.svg" style="max-width: 100%;" width="400"></a></details>
-        <details><summary>Latest posts</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.posts.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.posts.svg" style="max-width: 100%;" width="400"></a></details>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-  </tr>
-
-  <tr>
-        <td align="center">
-        <details open=""><summary>Random tracks from a playlist</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.music.playlist.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.music.playlist.svg" style="max-width: 100%;" width="400"></a></details>
-        <details open=""><summary>Recently listened</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.music.recent.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.music.recent.svg" style="max-width: 100%;" width="400"></a></details>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-        <td align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.rss.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.rss.svg" style="max-width: 100%;" width="400"></a>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-  </tr>
-  <tr>
-        <td align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.wakatime.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.wakatime.svg" style="max-width: 100%;" width="400"></a>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-    <td align="center"><a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a></td>
-  </tr>
-  <tr>
-    <th colspan="2" align="center">
-      <a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/community/README.md"><g-emoji class="g-emoji" alias="game_die" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b2.png">🎲</g-emoji> See also community plugins</a>
-    </th>
-  </tr>
   <tr>
     <th colspan="2" align="center">
       <a id="user-content-️-and-even-more-with-4-templates" class="anchor" aria-hidden="true" href="#️-and-even-more-with-4-templates"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a href="https://github.com/lowlighter/metrics/blob/master/README.md#%EF%B8%8F-templates"><g-emoji class="g-emoji" alias="framed_picture" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5bc.png">🖼️</g-emoji> And even more with 4+ templates!</a>
     </th>
   </tr>
-
   <tr>
         <td align="center">
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.classic.svg" style="max-width: 100%;" width="400"></a>
@@ -254,7 +175,6 @@
         <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
       </td>
   </tr>
-
 </tbody></table>
 
 
