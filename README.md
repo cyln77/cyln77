@@ -12,32 +12,7 @@
 </p>
 
 <table>
-  <tbody><tr>
-    <th align="center">For user accounts</th>
-    <th align="center">For organization accounts</th>
-  </tr>
-  <tr>
-    <td align="center">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.classic.svg" style="max-width: 100%;" width="400"></a>
-</td>
-<td align="center">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.organization.svg" style="max-width: 100%;" width="400"></a>
-</td>
-  </tr>
-
-        <td align="center">
-        <details open=""><summary>Full year calendar</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.isocalendar.fullyear.svg" style="max-width: 100%;" width="400"></a></details>
-        <details><summary>Half year calendar</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.isocalendar.svg" style="max-width: 100%;" width="400"></a></details>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-        <td align="center">
-        <details open=""><summary>Indepth analysis (clone and analyze repositories)</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.languages.indepth.svg" style="max-width: 100%;" width="400"></a></details>
-        <details open=""><summary>Recently used (analyze recent activity events)</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.languages.recent.svg" style="max-width: 100%;" width="400"></a></details>
-        <details><summary>Default algorithm</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.languages.svg" style="max-width: 100%;" width="400"></a></details>
-        <details><summary>Default algorithm (with details)</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.languages.details.svg" style="max-width: 100%;" width="400"></a></details>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-  </tr>
+  <tbody>
   <tr>
         <td align="center">
         <details open=""><summary>With icons</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.icons.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.topics.icons.svg" style="max-width: 100%;" width="400"></a></details>
