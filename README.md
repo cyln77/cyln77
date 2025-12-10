@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm ceylin</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyln77&label=Profile%20views&color=0e75b6&style=flat" alt="cyln77" /> </p>
 
