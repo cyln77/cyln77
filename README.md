@@ -1,4 +1,4 @@
- <h1 align="center">ceylin naz iştar</h1>
+ <h1 align="center">ceylin </h1>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
@@ -37,10 +37,6 @@
         <details><summary>Default algorithm (with details)</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.languages.details.svg" style="max-width: 100%;" width="400"></a></details>
         <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
       </td>
-  </tr>
-  <tr>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/topics/README.md"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Starred topics</a></th>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/stars/README.md"><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji> Recently starred repositories</a></th>
   </tr>
   <tr>
         <td align="center">
@@ -96,7 +92,7 @@
       </td>
   </tr>
 
-  </tr>
+
   <tr>
         <td align="center">
         <details open=""><summary>Classic charts</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.stargazers.svg" style="max-width: 100%;" width="400"></a></details>
@@ -122,11 +118,7 @@
         <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
       </td>
   </tr>
-  <tr>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/achievements/README.md"><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> Achievements</a></th>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/notable/README.md"><g-emoji class="g-emoji" alias="tophat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a9.png">🎩</g-emoji> Notable contributions</a></th>
-  </tr>
-  <tr>
+   <tr>
         <td align="center">
         <details open=""><summary>Compact display</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.achievements.compact.svg" style="max-width: 100%;" width="400"></a></details>
         <details><summary>Detailed display</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.achievements.svg" style="max-width: 100%;" width="400"></a></details>
@@ -195,10 +187,6 @@
         <details><summary>GitHub sponsors full introduction</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.sponsors.full.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.sponsors.full.svg" style="max-width: 100%;" width="400"></a></details>
         <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
       </td>
-  </tr>
-  <tr>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/starlists/README.md"><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji> Starlists</a></th>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/calendar/README.md"><g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji> Calendar</a></th>
   </tr>
   <tr>
         <td align="center">
@@ -274,10 +262,6 @@
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.rss.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.rss.svg" style="max-width: 100%;" width="400"></a>
         <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
       </td>
-  </tr>
-  <tr>
-    <th><a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md"><g-emoji class="g-emoji" alias="alarm_clock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f0.png">⏰</g-emoji> WakaTime plugin</a></th>
-    <th></th>
   </tr>
   <tr>
         <td align="center">
