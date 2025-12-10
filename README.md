@@ -26,18 +26,6 @@
   </tr>
   <tr>
         <td align="center">
-        <details open=""><summary>Permissions, limitations and conditions</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.licenses.svg" style="max-width: 100%;" width="400"></a></details>
-        <details open=""><summary>Licenses overview</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.ratio.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.licenses.ratio.svg" style="max-width: 100%;" width="400"></a></details>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-        <td align="center">
-        <details open=""><summary>Recent activity charts</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.habits.charts.svg" style="max-width: 100%;" width="400"></a></details>
-        <details open=""><summary>Midly interesting facts</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.habits.facts.svg" style="max-width: 100%;" width="400"></a></details>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-  </tr>
-  <tr>
-        <td align="center">
         <details open=""><summary>By contribution types</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.contributors.categories.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.contributors.categories.svg" style="max-width: 100%;" width="400"></a></details>
         <details><summary>By number of contributions</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.contributors.contributions.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.contributors.contributions.svg" style="max-width: 100%;" width="400"></a></details>
         <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
@@ -61,17 +49,6 @@
         <td align="center">
         <details open=""><summary>Related to a user</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.people.followers.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.people.followers.svg" style="max-width: 100%;" width="400"></a></details>
         <details><summary>Related to a repository</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.people.repository.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.people.repository.svg" style="max-width: 100%;" width="400"></a></details>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-  </tr>
-  <tr>
-        <td align="center">
-        <details open=""><summary>Classic charts</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.stargazers.svg" style="max-width: 100%;" width="400"></a></details>
-        <details><summary>Chartist charts</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.chartist.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.stargazers.chartist.svg" style="max-width: 100%;" width="400"></a></details>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-        <td align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.projects.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.projects.svg" style="max-width: 100%;" width="400"></a>
         <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
       </td>
   </tr>
@@ -128,18 +105,6 @@
         <td align="center">
         <details open=""><summary>For a user or an organization</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.introduction.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.introduction.svg" style="max-width: 100%;" width="400"></a></details>
         <details><summary>For a repository</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.introduction.repository.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.introduction.repository.svg" style="max-width: 100%;" width="400"></a></details>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-        <td align="center">
-        <details open=""><summary>GitHub sponsors card</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.sponsors.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.sponsors.svg" style="max-width: 100%;" width="400"></a></details>
-        <details><summary>GitHub sponsors full introduction</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.sponsors.full.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.sponsors.full.svg" style="max-width: 100%;" width="400"></a></details>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
-      </td>
-  </tr>
-  <tr>
-        <td align="center">
-        <details open=""><summary>Repositories from star lists</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.starlists.svg" style="max-width: 100%;" width="400"></a></details>
-        <details open=""><summary>Languages from star lists</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.starlists.languages.svg" style="max-width: 100%;" width="400"></a></details>
         <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="900" height="1"></a>
       </td>
         <td align="center">
