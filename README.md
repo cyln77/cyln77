@@ -12,10 +12,7 @@
 </p>
 
 <p align="center">  
-  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">  
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">  
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">  
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">  
+  <img width=100 src="https://raw.githubusercontent.com/gist/FuseFairy/08a84ab3f44987ccf222c5d5844be075/raw/103de3c64da63c684caa2a931d415d2240ea421a/hits.svg" alt="View Count Badge">  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
